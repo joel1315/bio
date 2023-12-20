@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Playfair+Display&family=Roboto+Condensed:ital,wght@0,300;1,500&family=Roboto:ital,wght@0,100;0,300;0,400;1,300&display=swap');
+.auto{
+    margin: 10px;
+    background-color: black;
+    height: 400px;
+    width: 100%;
+    justify-items: center;
+}
+.uui{
+display: flex;
+height: 300px;
+width: 200px;
+position: absolute;
+top: 50px;
+left: 450px;}
+
+.autoi{
+    margin: 10px;
+    background-color: rgb(10, 1, 1);
+    height: 400px;
+    width: 100%;
+    justify-items: center;}
+
+.autoi .img{
+display: flex;
+height: 300px;
+width: 200px;
+position: absolute;
+top: 426px;
+left: 450px;
+ }
+ .autoi .portfolio{
+font-family: Roboto;
+font-size:small;
+    color: white;
+    position: absolute;
+    top: 410px;
+    left: 30px;
+ }
+
+ .abc{
+    position: absolute;
+    top: 402px;
+    left: 30px;
+    color: white;
+    font-family: roboto;
+    margin: 50px;
+    font-size: large;
+
+ }
+
+ .def{
+    position: absolute;
+    top: 510px;
+    left: 83px;
+    color: rgba(255, 0, 0, 0.645);
+    font-family: roboto;
+    font-size: x-small;
+
+ }
+ .home h4{
+    position: absolute;
+    top: 415px;
+    left: 1000px;
+    color: white;
+    font-family: roboto;
+    font-size: small;
+
+ }
+
+.autoi .ghi{
+    position: absolute;
+    top: 525px;
+    left: 81px;
+
+    color: grey;
+    font-family: roboto;
+
+}
+
+.autoi .hom2{
+    top: 415px;
+    left: 1052px;
+
+}
+.autoi .hom3{
+    top: 415px;
+    left: 1141px;
+
+}
+
+.autoi .hom5{
+    top: 415px;
+    left: 1207px;
+
+}
+/* new div */
+ .newdivision{
+    height: 400px;
+    width: 100%;
+    margin: 10px;
+    display:flex;
+    align-items: center;
+    flex-direction: row;  
+    background-color: black;
+    justify-content: safe;
+ }
+
+ .newdivision .col{
+    height: 100%;
+    width: 200;
+ }
+ .newdivision .para{
+    color: grey;
+    text-align: justify;
+    font-family: roboto;
+    font-size: medium;
+    margin: 30px;
+  
+    display: flex;
+    justify-content: space-evenly;
+    
+ }
+
+ /* inventions */
+ .inventions{
+    height: 400px;
+    width: 100%;
+    margin: 10px;
+    display:flex;
+    align-items: center;
+    flex-direction: row;  
+    background-color: black;
+    justify-content:space-evenly
+
+ }
+ .inventions .content{
+    height: 300px;
+    width: 200px;
+    background-color:white;
+    border-radius: 20px;
+    border: solid white;
+ }
+
+ .contimg{
+    height: 128px;
+    width: 197px;  
+    border: solid black 2.5px;
+    border-radius: 20px;
+ }
+ .pixl{
+    text-align: justify;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: small;
+    margin: 5px;
+    color: black;
+    
+ }
+
+ .inventions .headings{
+    color: white;
+    display: flex;
+    font-family: roboto;
+
+ }
+ .gallery{
+    height: 400px;
+    width: 100%;
+    margin: 10px;
+    display:flex;
+    align-items: center;
+    flex-direction: row;  
+    background-color: black;
+    justify-content:space-evenly
+
+
+ }
+ .gallery .row{
+    height: 178px;
+    width: 270px;
+    background-color:white;
+    border-radius: 20px;
+    border: solid white;
+ }
+
+ .rgallery{
+    height: 174px;
+    width: 266px; 
+    border: solid black 2.5px;
+    border-radius: 20px;
+
+ }
+ .headings69{
+    color: white;
+    display: flex;
+    font-family: roboto;
+
+ }
+ .acheivements{
+    height: 400px;
+    width: 100%;
+    margin: 10px;
+    display:flex;
+    align-items: center;
+    flex-direction: row;  
+    background-color: black;
+    justify-content:space-evenly
+
+ }
+ .category{
+    height: 292px;
+    width: 817px;
+    background-color:black;
+    border-radius: 20px;
+
+ }
+
+ .acheadings{
+    color: white;
+    display: flex;
+    font-family: roboto;
+
+ }
+ .listall{
+    text-align: justify;
+    font-family: roboto;
+    font-weight: 500;
+    font-size:x-large;
+    margin: 5px;
+    color: grey;
+    padding: 68px;
+
+ }
+ .lastsession{
+    height: 400px;
+    width: 100%;
+    margin: 10px;
+    display:flex;
+    align-items: center;
+    flex-direction: row;  
+    background-color: black;
+    justify-content:space-evenly
+ }
+ .out{
+    height: 292px;
+    width: 817px;
+    background-color:black;
+ }
+.lasthead{
+    color: white;
+    display: flex;
+    font-family: roboto;  
+}
+ 
+
+
+
+    
